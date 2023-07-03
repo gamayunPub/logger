@@ -1,4 +1,4 @@
-module gitlab.goodsteam.tech/goods/merchants-experience/MMS/infrastructure/logger/v2
+module github.com/gamayunPub/logger
 
 go 1.17
 
